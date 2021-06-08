@@ -1,4 +1,8 @@
-#### Description
+## lopco-forward-fill-csv-worker
+
+Uses forward fill to populate gabs in CSV files.
+
+### Description
 
     {
         "name": "Forward Fill CSV",
