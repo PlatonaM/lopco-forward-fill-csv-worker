@@ -2,6 +2,24 @@
 
 Uses forward fill to populate gabs in CSV files.
 
+### Configuration
+
+`delimiter`: Delimiter used in the CSV file.
+
+`target_columns`: Columns containing gabs.
+
+### Inputs
+
+Type: single
+
+`source_csv`: CSV file to fill.
+
+### Outputs
+
+Type: single
+
+`output_file`: Result CSV file.
+
 ### Description
 
     {
